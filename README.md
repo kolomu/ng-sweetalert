@@ -4,9 +4,8 @@ Thanks for the amazing article 😀.
 
 # NGSweetAlert
 
-> SweetAlert makes popup messages easy and pretty
 
-One of the useful options that we can pass to the library is the content option, which is a DOM element that will be rendered inside the modal, for example:
+> SweetAlert makes popup messages easy and pretty
 
 ```javascript
 let slider = document.createElement("input");
